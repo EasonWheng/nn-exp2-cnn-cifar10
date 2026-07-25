@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.h5
+*.keras
+.ipynb_checkpoints/
+.idea/
+model/
